@@ -1,0 +1,1 @@
+In this notebook I build a forecasting LSTM model to predict the weather (precipitation, max temperature, min temperature). The data is from Oakland Airport and is downloaded from https://www.ncdc.noaa.gov/cdo-web/.
